@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-1. [Challenge 2 - Run the App](./RunTheApp.md) should be done successfully.
+1. [Challenge 2 - Run the App](./RunTheApp.md) should be don successfully.
 
 ## Introduction
 
