@@ -2,7 +2,7 @@
 
 This tutorial will take you on a path of writing an application for on-premise purposes that will later on evolve to cloud deployment and as a last step we will create an image that can be easily deployed as a container. Another important part of it will be usage of managed identities that completely replace connection string and passwords together with a demo of Azure App Configuration resource that eases up management application specific settings.
 
-This project is cross-platform so you should be able to run in on Linux and MacOS with no major issues but steps were written as seen on Windows OS
+This project is cross-platform so you should be able to run in on Linux and MacOS with no major issues but steps were written as seen on Windows OS. Former knowledge with C#, Razor or HTML isn't required but it helps if you already know your way around Azure Portal and basic resources.
 
 **Repository was divided into several folders, each of them builds up on experience/code that you have created before**
 
