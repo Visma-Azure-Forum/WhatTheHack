@@ -137,3 +137,11 @@ In this step you will prepare and run local application that includes reference 
   - dotnet build
   - dotnet run
   - The output of the dotnet run command contains URLs
+
+## Additional information
+
+  - Check NuGet source
+    dotnet nuget list source
+  
+  - Configure NuGet source
+    dotnet nuget add source https://api.nuget.org/v3/index.json --name nuget.org
