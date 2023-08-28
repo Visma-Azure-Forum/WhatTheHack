@@ -1,6 +1,6 @@
 ## Foreword
 
-In this step you will prepare and run local application that includes reference to Azure App Configuration resource that is already in cloud. We will use connection string for communication this time. Try to follow steps as they contain instructions if you simply copy or clone the code here your application will not work (it might lack secrets, NuGet packages, etc.) 
+In this step you will prepare and run local application that includes reference to Azure App Configuration resource that is already in cloud. We will use connection string for communication this time. Try to follow steps as they contain instructions if you simply copy or clone the code here your application will not work (it might lack secrets, NuGet packages, etc.). Referring to contributed code comes in handy when you are stuck or get some errors. We will use and augment this very application in next steps (deployment to cloud, containerization).
 
 ## Preparing application
 
