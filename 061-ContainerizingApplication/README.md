@@ -13,7 +13,7 @@ It is advised to setup your working environment in following way to minimize tec
   - Install .NET6 (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
   - Install VSCode (https://code.visualstudio.com/download)
   - Create VSCode workspace
-  - Install Extensions (Azure Account, Azure Tools, Docker, C#)
+  - Install Extensions (Azure Account, Azure Tools, Docker, C# Dev Kit)
   - Install Docker for Desktop (https://www.docker.com/products/docker-desktop/)
   - Install PowerShell 7 (https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)
   - Install AZ CLI (https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
