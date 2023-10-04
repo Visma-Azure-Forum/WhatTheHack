@@ -96,7 +96,7 @@ In this step you will prepare and run local application that includes reference 
     ```
 
   - Open Index.cshtml.cs in the Pages directory, and update the IndexModel class with the following code.
-    Add the using Microsoft.Extensions.Options; namespace at the beginning of the file
+    Add the **using Microsoft.Extensions.Options;** namespace at the beginning of the file
     ```csharp
     public class IndexModel : PageModel
     {
