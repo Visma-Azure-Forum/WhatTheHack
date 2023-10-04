@@ -1,0 +1,10 @@
+{
+    "TestApp": {
+      "Settings": {
+        "BackgroundColor": "White",
+        "FontColor": "Black",
+        "FontSize": 24,
+        "Message": "Data from Azure App Configuration"
+      }
+    }
+  }
