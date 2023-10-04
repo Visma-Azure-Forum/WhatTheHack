@@ -38,7 +38,7 @@ In this step you will prepare and run local application that includes reference 
     ```
     dotnet add package Microsoft.Azure.AppConfiguration.AspNetCore
     ```
-  - Initiate and store secret in [secret manager](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows#secret-manager)  
+  - Initiate and store secret in [secret manager](https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets?view=aspnetcore-7.0&tabs=windows#secret-manager) (connection string can be found in App Configuration) 
     ```
     dotnet user-secrets init
     dotnet user-secrets set ConnectionStrings:AppConfig "<your_connection_string>"
